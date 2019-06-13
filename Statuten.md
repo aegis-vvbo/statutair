@@ -22,10 +22,10 @@
     eigen non-profit Aegis gameplatform.
 
 2.  De Vereniging heeft niet als oogmerk om winst te behalen of deze winst te
-    verdelen onder haar leden of bestuur.
+    verdelen onder haar leden of Bestuur.
 
 3.  Pogingen van een of meerdere bestuurders om lid 2 van dit artikel te
-    overtreden zal gezien worden als onbehoorlijk bestuur.
+    overtreden zal gezien worden als onbehoorlijk Bestuur.
 
 #### Artikel 3
 
@@ -46,10 +46,10 @@ terugwerkende kracht kunnen werken.
     regelement opgesteld orgaan. Dit orgaan kan besluiten om het verzoek af te
     keuren, of goed te keuren.
 
-4.  Indien het in lid 3 bedoelde orgaan nog niet opgericht is, zal het bestuur
+4.  Indien het in lid 3 bedoelde orgaan nog niet opgericht is, zal het Bestuur
     bevoegd zijn om als/namens dit orgaan op te treden.
 
-5.  Het bestuur is bevoegd om een besluit tot goedkeuring van lidmaatschap te
+5.  Het Bestuur is bevoegd om een besluit tot goedkeuring van lidmaatschap te
     vetoën.
 
 #### Artikel 5 – Eindigen lidmaatschap
@@ -61,7 +61,7 @@ Het lidmaatschap eindigt:
 2.  Door schriftelijke opzegging door het lid. Het lidmaatschap eindigt dan met
     ingang van de eerste dag van de daarop volgende maand;
 
-3.  Door schriftelijke opzegging of ontzetting door het bestuur om een dringende
+3.  Door schriftelijke opzegging of ontzetting door het Bestuur om een dringende
     reden.
 
 4.  Door schriftelijke opzegging of ontzetting van het in lid 3 van artikel 4
@@ -75,15 +75,15 @@ kunnen worden:
 1.  Wanneer het lid handelt in strijd met de statuten, reglementen,
     voorschriften, besluiten of belangen van de Vereniging.
 
-2.  Wanneer het lid de vereniging op onredelijke wijze benadeelt.
+2.  Wanneer het lid de Vereniging op onredelijke wijze benadeelt.
 
-3.  Andere omstandigheden die als gevolg hebben dat van de vereniging niet
+3.  Andere omstandigheden die als gevolg hebben dat van de Vereniging niet
     redelijkerwijs verwacht kan worden dat het lid actief kan blijven bij de
-    vereniging.
+    Vereniging.
 
 #### Artikel 7 – Vetorecht en beroep
 
-1.  Zowel het bestuur als de Algemene Ledenvergadering zijn bevoegd tot het
+1.  Zowel het Bestuur als de Algemene Ledenvergadering zijn bevoegd tot het
     vetoën van het besluit tot schriftelijke opzegging, zoals bedoeld in lid 4
     van artikel 5, door middel van een besluit genomen door een simpele
     meerderheid.
@@ -98,13 +98,13 @@ kunnen worden:
 
 ### Hoofdstuk 3. Het Bestuur
 
-#### § 1. Het bestuur
+#### § 1. Het Bestuur
 
 #### Artikel 8
 
-1.  Het bestuur wordt gevormd door alle bestuurders.
+1.  Het Bestuur wordt gevormd door alle bestuurders.
 
-2.  Het bestuur beraadslaagt en besluit over het algemeen verenigingsbeleid en
+2.  Het Bestuur beraadslaagt en besluit over het algemeen verenigingsbeleid en
     bevordert de eenheid van dat beleid.
 
 #### Artikel 9
@@ -122,10 +122,15 @@ ontslagen.
 
     -   Secretaris.
 
-2.  Bij regelementen kunnen andere bestuursfuncties gecreëerd worden en hier
+2.  Deze statuten wijken af van het in artikel 2:37 lid 7 van het Burgerlijk
+    Wetboek bepaalde omtrent de Voorzitter, penningmeester en secretaris. Zij
+    hoeven niet aanwezig te zijn tenzij deze statuten of de regelementen anders
+    bepalen.
+
+3.  Bij regelementen kunnen andere bestuursfuncties gecreëerd worden en hier
     bevoegdheden aan toegewezen worden.
 
-3.  Het bestuur zal per bestuursbesluit bestuursfuncties verdelen onder de
+4.  Het Bestuur zal per bestuursbesluit bestuursfuncties verdelen onder de
     bestuurders, tenzij de statuten anders bepalen.
 
 #### Artikel 11
@@ -136,7 +141,7 @@ de Algemene Ledenvergadering.
 #### Artikel 12
 
 Bestuursbesluiten worden genomen bij gewone meerderheid van stemmen (meer dan de
-helft). Bij het staken van de stemmen beslist de voorzitter.
+helft). Bij het staken van de stemmen beslist de Voorzitter.
 
 #### Artikel 13
 
@@ -150,66 +155,66 @@ ondertekend.
 
 #### Artikel 15
 
-1.  Het bestuur is gemachtigd om één of meerdere bestuursleden te volmachtigen
-    om namens de vereniging de handelen of om de vereniging te
+1.  Het Bestuur is gemachtigd om één of meerdere bestuursleden te volmachtigen
+    om namens de Vereniging de handelen of om de Vereniging te
     vertegenwoordigen.
 
 2.  De in lid 1 bedoelde volmacht kan zowel gedeeltelijk als volledig zijn. De
     volmacht kan zowel voor specifieke rechtshandelingen zijn, als voor alle
     rechtshandelingen. Hij kan een limiet hebben, maar ook onbegrensd zijn.
 
-#### § 2. De voorzitter
+#### § 2. De Voorzitter
 
 #### Artikel 16
 
-1.  Er dient altijd een voorzitter te zijn.
+1.  Er dient altijd een Voorzitter te zijn.
 
-2.  De voorzitter wordt uit de leden benoemd.
+2.  De Voorzitter wordt uit de leden benoemd.
 
-3.  Een voorstel tot benoeming of ontslag van de voorzitter kan alleen tot
+3.  Een voorstel tot benoeming of ontslag van de Voorzitter kan alleen tot
     stemming worden gebracht wanneer minimaal twee derden van de leden aanwezig
     zijn bij de Vergadering.
 
-4.  Een besluit tot benoeming of ontslag van de voorzitter behoeft ten minste de
+4.  Een besluit tot benoeming of ontslag van de Voorzitter behoeft ten minste de
     helft van de uitgebrachte stemmen.
 
-5.  Een besluit tot ontslag van een voorzitter gaat pas van kracht wanneer er
-    een besluit tot benoeming van een nieuwe voorzitter is genomen.
+5.  Een besluit tot ontslag van een Voorzitter gaat pas van kracht wanneer er
+    een besluit tot benoeming van een nieuwe Voorzitter is genomen.
 
 #### Artikel 17
 
-1.  Indien er geen voorzitter is, zal er binnen 14 dagen een Algemene
+1.  Indien er geen Voorzitter is, zal er binnen 14 dagen een Algemene
     Ledenvergadering uitgeroepen worden om een nieuwe Voorzitter te benoemen.
     Totdat er een nieuwe Voorzitter is, zal de functie van Voorzitter
     overgenomen worden door de bestuurder met de hoogste senioriteit.
 
-2.  De in lid 1 bedoelde speciale vergadering zal minimaal 7 dagen van tevoren
+2.  De in lid 1 bedoelde speciale Vergadering zal minimaal 7 dagen van tevoren
     aangekondigd worden.
 
-3.  Indien de vergadering zoals bedoeld in lid 1 niet het in lid 3 van artikel
+3.  Indien de Vergadering zoals bedoeld in lid 1 niet het in lid 3 van artikel
     10 gestelde minimumaantal aanwezigen heeft, zal de
 
 #### Artikel 18
 
 1.  Bevoegdheden die niet aan andere bestuurders toebehoren, zullen aan de
-    voorzitter toebehoren.
+    Voorzitter toebehoren.
 
-2.  Indien het bestuur alleen bestaat uit de voorzitter, dan zal deze voorzitter
-    de volledige bevoegdheid tot vertegenwoordiging van de vereniging hebben.
+2.  Indien het Bestuur alleen bestaat uit de Voorzitter, dan zal deze Voorzitter
+    de volledige bevoegdheid tot vertegenwoordiging van de Vereniging hebben.
 
 #### § 3. De overige bestuurders
 
 #### Artikel 19
 
 1.  Bij besluit van de algemene ledenvergadering worden comités ingesteld. Zij
-    staan onder leiding van een of meerdere bestuurders van de vereniging.
+    staan onder leiding van een of meerdere bestuurders van de Vereniging.
 
 2.  Ook kunnen bestuurders worden benoemd die niet belast zijn met de leiding
     van een comité.
 
 #### Artikel 20
 
-Het bestuur besluit welke bestuurders welke bevoegdheden verkrijgen.
+Het Bestuur besluit welke bestuurders welke bevoegdheden verkrijgen.
 
 ### Hoofdstuk 4. De Algemene Ledenvergadering
 
@@ -217,23 +222,26 @@ Het bestuur besluit welke bestuurders welke bevoegdheden verkrijgen.
 
 #### Artikel 21
 
-1.  De vergadering wordt voorgezeten door de voorzitter.
+1.  De Algemene Ledenvergadering zal ook bekend zijn als de Ledenvergadering, de
+    Algemene Vergadering, de Vergadering of de ALV.
 
-2.  De vergadering benoemd een van haar leden om notulen op te maken van de
-    vergadering. Deze kan tevens lid van het Bestuur zijn.
+2.  De Vergadering wordt voorgezeten door de Voorzitter.
+
+3.  De Vergadering benoemd een van haar leden om notulen op te maken van de
+    Vergadering. Deze kan tevens lid van het Bestuur zijn.
 
 #### § 2. Werkwijze
 
 #### Artikel 22
 
 Jaarlijks op een bij de regelementen te tijdstip wordt door of namens de
-Voorzitter in een vergadering van de Algemene Ledenvergadering een uiteenzetting
-van het door het bestuur te voeren beleid gegeven.
+Voorzitter in een Vergadering van de Algemene Ledenvergadering een uiteenzetting
+van het door het Bestuur te voeren beleid gegeven.
 
 #### Artikel 23
 
 1.  De Vergadering mag alleen beraadslagen of besluiten, indien meer dan de
-    helft van het aantal leden ter vergadering aanwezig is, tenzij een
+    helft van het aantal leden ter Vergadering aanwezig is, tenzij een
     regelement anders bepaald.
 
 2.  Besluiten worden genomen bij meerderheid van stemmen.
@@ -245,7 +253,7 @@ van het door het bestuur te voeren beleid gegeven.
 
 #### Artikel 24
 
-De voorzitter en de overige bestuurders geven de Vergadering mondeling of
+De Voorzitter en de overige bestuurders geven de Vergadering mondeling of
 schriftelijk de door een of meer leden verlangde inlichtingen waarvan het
 verstrekken niet in strijd is met het belang van de Vereniging.
 
@@ -262,7 +270,7 @@ regelementen.
 
 2.  De verantwoording van de ontvangsten en de uitgaven van de Vereniging wordt
     aan de Algemene Ledenvergadering gedaan overeenkomstig de bepalingen de
-    regelementen. De jaarrekening wordt door het bestuur aan de Algemene
+    regelementen. De jaarrekening wordt door het Bestuur aan de Algemene
     Ledenvergadering overlegd.
 
 ### Hoofdstuk 5. Regelementen en Voorschriften
@@ -271,13 +279,13 @@ regelementen.
 
 #### Artikel 27
 
-De vaststelling van regelementen geschiedt door het bestuur en de Algemene
+De vaststelling van regelementen geschiedt door het Bestuur en de Algemene
 Ledenvergadering gezamenlijk.
 
 #### Artikel 28
 
 1.  Voorstellen van regelementen kunnen worden ingediend door of vanwege het
-    bestuur en door de Algemene Ledenvergadering.
+    Bestuur en door de Algemene Ledenvergadering.
 
 2.  Voorstellen van regelementen, in te dienen door de Algemene
     Ledenvergadering, worden bij haar door een of meer leden aanhangig gemaakt.
@@ -334,12 +342,25 @@ treden. Zij treden niet in werking voordat zij zijn bekendgemaakt.
 2.  De regelementen die de contributies regelen kunnen bij verschillende soorten
     lidmaatschap, verschillende contributies heffen.
 
-3.  Bij bestuursbesluit kan het bestuur handelen namens de leden. De leden
+3.  Bij bestuursbesluit kan het Bestuur handelen namens de leden. De leden
     dienen hier zo spoedig mogelijk van op de hoogte gesteld te worden.
+
+#### Artikel 35
+
+1.  Regelementen mogen geen bepalingen bevatten die in strijd zijn met deze
+    Statuten of de wet, anders zijn deze bepalingen nietig. Dit maakt niet het
+    complete regelement nietig.
+
+2.  Voorschriften mogen geen bepalingen bevatten die in strijd zijn met deze
+    Statuten, de regelementen of de wet, anders zijn deze nietig. Dit maakt niet
+    het complete voorschrift nietig.
+
+3.  Indien een bepaling in deze statuten in strijd is met de wet, dan zal deze
+    bepaling nietig zijn. Dit maakt niet de complete statuten nietig.
 
 ### Hoofdstuk 6. Afdelingen en andere lichamen of organen
 
-#### Artikel 35
+#### Artikel 36
 
 1.  Bij of krachtens de regelementen kunnen organen van de Vereniging worden
     ingesteld en opgeheven.
@@ -347,7 +368,7 @@ treden. Zij treden niet in werking voordat zij zijn bekendgemaakt.
 2.  De regelementen regelen de taken, samenstelling, bevoegdheid en de
     inrichting van deze organen.
 
-#### Artikel 36
+#### Artikel 37
 
 1.  De geschillen tussen leden of verenigingsorganen worden bij door middel van
     een interne hoorzitting beslist, tenzij deze behoren tot de kennisneming van
@@ -359,18 +380,18 @@ treden. Zij treden niet in werking voordat zij zijn bekendgemaakt.
 
 ### Hoofdstuk 8. Herziening van de Statuten of Rechtsvorm
 
-#### Artikel 37
+#### Artikel 38
 
 Herziening of verandering van de Statuten geschiedt comform artikel 2:42 ju.
 Artikel 2:43 van het Burgerlijk Wetboek.
 
-#### Artikel 38
+#### Artikel 39
 
-Bij wijziging of herziening is het bestuur verplicht om het besluit tot
+Bij wijziging of herziening is het Bestuur verplicht om het besluit tot
 herziening met een kopie van de nieuwe statuten ondertekend door alle
 bestuurders op te sturen naar de Kamer van Koophandel.
 
-#### Artikel 39
+#### Artikel 40
 
 De Vereniging kan zich met inachtneming van artikel 2:18 van het Burgerlijk
-Wetboek omzetten in een andere rechtsvorm.
+Wetboek en andere wetten omzetten in een andere rechtsvorm.
