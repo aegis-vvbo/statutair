@@ -29,7 +29,7 @@
 
 #### Artikel 3
 
-Bepalingen in deze statuten, de regelementen of de voorschriften zijn pas van
+Bepalingen in deze statuten, de reglementen of de voorschriften zijn pas van
 toepassing nadat deze in werking treden. Dit betekend dat zij niet met
 terugwerkende kracht kunnen werken.
 
@@ -43,7 +43,7 @@ terugwerkende kracht kunnen werken.
     tijdig en volledig te voldoen.
 
 3.  Een verzoek tot lidmaatschap kan gedaan worden bij een in een speciaal
-    regelement opgesteld orgaan. Dit orgaan kan besluiten om het verzoek af te
+    reglement opgesteld orgaan. Dit orgaan kan besluiten om het verzoek af te
     keuren, of goed te keuren.
 
 4.  Indien het in lid 3 bedoelde orgaan nog niet opgericht is, zal het Bestuur
@@ -124,10 +124,10 @@ ontslagen.
 
 2.  Deze statuten wijken af van het in artikel 2:37 lid 7 van het Burgerlijk
     Wetboek bepaalde omtrent de Voorzitter, penningmeester en secretaris. Zij
-    hoeven niet aanwezig te zijn tenzij deze statuten of de regelementen anders
+    hoeven niet aanwezig te zijn tenzij deze statuten of de reglementen anders
     bepalen.
 
-3.  Bij regelementen kunnen andere bestuursfuncties gecreëerd worden en hier
+3.  Bij reglementen kunnen andere bestuursfuncties gecreëerd worden en hier
     bevoegdheden aan toegewezen worden.
 
 4.  Het Bestuur zal per bestuursbesluit bestuursfuncties verdelen onder de
@@ -145,7 +145,7 @@ helft). Bij het staken van de stemmen beslist de Voorzitter.
 
 #### Artikel 13
 
-Alle besluiten tot invoering van regelementen en voorschriften worden door de
+Alle besluiten tot invoering van reglementen en voorschriften worden door de
 Voorzitter ondertekend.
 
 #### Artikel 14
@@ -234,22 +234,22 @@ Het Bestuur besluit welke bestuurders welke bevoegdheden verkrijgen.
 
 #### Artikel 22
 
-Jaarlijks op een bij de regelementen te tijdstip wordt door of namens de
+Jaarlijks op een bij de reglementen te tijdstip wordt door of namens de
 Voorzitter in een Vergadering van de Algemene Ledenvergadering een uiteenzetting
 van het door het Bestuur te voeren beleid gegeven.
 
 #### Artikel 23
 
 1.  De Vergadering mag alleen beraadslagen of besluiten, indien meer dan de
-    helft van het aantal leden ter Vergadering aanwezig is, tenzij een
-    regelement anders bepaald.
+    helft van het aantal leden ter Vergadering aanwezig is, tenzij een reglement
+    anders bepaald.
 
 2.  Besluiten worden genomen bij meerderheid van stemmen.
 
 3.  De leden stemmen zonder last.
 
 4.  Over zaken wordt mondeling en bij hoofdelijke oproeping gestemd, wanneer één
-    lid dit verlangt, tenzij een regelement anders bepaald.
+    lid dit verlangt, tenzij een reglement anders bepaald.
 
 #### Artikel 24
 
@@ -260,7 +260,7 @@ verstrekken niet in strijd is met het belang van de Vereniging.
 #### Artikel 25
 
 De Vergadering heeft het recht van onderzoek (enquête), te regelen in de
-regelementen.
+reglementen.
 
 #### Artikel 26
 
@@ -270,55 +270,55 @@ regelementen.
 
 2.  De verantwoording van de ontvangsten en de uitgaven van de Vereniging wordt
     aan de Algemene Ledenvergadering gedaan overeenkomstig de bepalingen de
-    regelementen. De jaarrekening wordt door het Bestuur aan de Algemene
+    reglementen. De jaarrekening wordt door het Bestuur aan de Algemene
     Ledenvergadering overlegd.
 
-### Hoofdstuk 5. Regelementen en Voorschriften
+### Hoofdstuk 5. Reglementen en Voorschriften
 
-#### § 1. Regelementen en andere voorschriften
+#### § 1. Reglementen en andere voorschriften
 
 #### Artikel 27
 
-De vaststelling van regelementen geschiedt door het Bestuur en de Algemene
+De vaststelling van reglementen geschiedt door het Bestuur en de Algemene
 Ledenvergadering gezamenlijk.
 
 #### Artikel 28
 
-1.  Voorstellen van regelementen kunnen worden ingediend door of vanwege het
+1.  Voorstellen van reglementen kunnen worden ingediend door of vanwege het
     Bestuur en door de Algemene Ledenvergadering.
 
-2.  Voorstellen van regelementen, in te dienen door de Algemene
-    Ledenvergadering, worden bij haar door een of meer leden aanhangig gemaakt.
+2.  Voorstellen van reglementen, in te dienen door de Algemene Ledenvergadering,
+    worden bij haar door een of meer leden aanhangig gemaakt.
 
 #### Artikel 29
 
-Voorstellen van regelementen door het Bestuur worden gezonden aan de Algemene
+Voorstellen van reglementen door het Bestuur worden gezonden aan de Algemene
 Ledenvergadering.
 
 #### Artikel 30
 
-Zolang een voorstel van regelement niet door de Algemene Ledenvergadering is
+Zolang een voorstel van reglement niet door de Algemene Ledenvergadering is
 aangenomen, kan het door of vanwege de indiener worden ingetrokken.
 
 #### Artikel 31
 
-1.  Een voorstel wordt regelement, zodra het door de Algemene Ledenvergadering
-    is aangenomen en door de Voorzitter is ondertekend.
+1.  Een voorstel wordt reglement, zodra het door de Algemene Ledenvergadering is
+    aangenomen en door de Voorzitter is ondertekend.
 
 2.  De Voorzitter en de Algemene Ledenvergadering geven elkaar kennis van hun
-    besluit omtrent enig voorstel van regelement.
+    besluit omtrent enig voorstel van reglement.
 
 3.  De Algemene Ledenvergadering met een meerderheid van twee derden van de
     leden besluiten om de Voorzitter te verplichten het besluit en/of voorstel
-    en/tot regelement te ondertekenen.
+    en/tot reglement te ondertekenen.
 
 4.  Indien de Voorzitter het in lid 3 bepaalde besluit negeert, kan de Algemene
     Ledenvergadering hem een dwangsom opleggen tot maximaal vijf keer de bij
-    regelement bepaalde ledencontributie.
+    reglement bepaalde ledencontributie.
 
 #### Artikel 32
 
-De regelementen worden bekendgemaakt via het ledenportaal op de website van de
+De reglementen worden bekendgemaakt via het ledenportaal op de website van de
 Vereniging. Bij bekendmaking wordt ook vernoemd vanaf welk moment zij in werking
 treden. Zij treden niet in werking voordat zij zijn bekendgemaakt.
 
@@ -327,7 +327,7 @@ treden. Zij treden niet in werking voordat zij zijn bekendgemaakt.
 1.  Voorschriften worden bij bestuursbesluit vastgesteld.
 
 2.  Voorschriften, door sancties te handhaven, worden daarin alleen gegeven
-    krachtens de regelementen. De regelementen bepaalt de op te leggen straffen.
+    krachtens de reglementen. De reglementen bepaalt de op te leggen straffen.
 
 3.  Voorschriften worden bekendgemaakt via het ledenportaal op de website van de
     Vereniging. Bij bekendmaking wordt ook vernoemd vanaf welk moment zij in
@@ -336,10 +336,10 @@ treden. Zij treden niet in werking voordat zij zijn bekendgemaakt.
 #### Artikel 34
 
 1.  De verplichte ledencontributies van de Vereniging worden geheven uit kracht
-    van een regelement. Andere verplichte contributies van de Vereniging worden
-    bij regelementen geregeld.
+    van een reglement. Andere verplichte contributies van de Vereniging worden
+    bij reglementen geregeld.
 
-2.  De regelementen die de contributies regelen kunnen bij verschillende soorten
+2.  De reglementen die de contributies regelen kunnen bij verschillende soorten
     lidmaatschap, verschillende contributies heffen.
 
 3.  Bij bestuursbesluit kan het Bestuur handelen namens de leden. De leden
@@ -347,12 +347,12 @@ treden. Zij treden niet in werking voordat zij zijn bekendgemaakt.
 
 #### Artikel 35
 
-1.  Regelementen mogen geen bepalingen bevatten die in strijd zijn met deze
+1.  Reglementen mogen geen bepalingen bevatten die in strijd zijn met deze
     Statuten of de wet, anders zijn deze bepalingen nietig. Dit maakt niet het
-    complete regelement nietig.
+    complete reglement nietig.
 
 2.  Voorschriften mogen geen bepalingen bevatten die in strijd zijn met deze
-    Statuten, de regelementen of de wet, anders zijn deze nietig. Dit maakt niet
+    Statuten, de reglementen of de wet, anders zijn deze nietig. Dit maakt niet
     het complete voorschrift nietig.
 
 3.  Indien een bepaling in deze statuten in strijd is met de wet, dan zal deze
@@ -362,20 +362,20 @@ treden. Zij treden niet in werking voordat zij zijn bekendgemaakt.
 
 #### Artikel 36
 
-1.  Bij of krachtens de regelementen kunnen organen van de Vereniging worden
+1.  Bij of krachtens de reglementen kunnen organen van de Vereniging worden
     ingesteld en opgeheven.
 
-2.  De regelementen regelen de taken, samenstelling, bevoegdheid en de
-    inrichting van deze organen.
+2.  De reglementen regelen de taken, samenstelling, bevoegdheid en de inrichting
+    van deze organen.
 
 #### Artikel 37
 
 1.  De geschillen tussen leden of verenigingsorganen worden bij door middel van
     een interne hoorzitting beslist, tenzij deze behoren tot de kennisneming van
     de Nederlandse rechterlijke macht of hun beslissing bij de Nederlandse wet
-    of verenigingsregelementen aan anderen is opgedragen.
+    of verenigingsreglementen aan anderen is opgedragen.
 
-2.  De Voorzitter leidt de interne hoorzitting, tenzij de regelementen anders
+2.  De Voorzitter leidt de interne hoorzitting, tenzij de reglementen anders
     bepalen, of hij een ander aanwijst.
 
 ### Hoofdstuk 8. Herziening van de Statuten of Rechtsvorm
