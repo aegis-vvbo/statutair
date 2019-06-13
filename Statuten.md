@@ -369,3 +369,8 @@ Artikel 2:43 van het Burgerlijk Wetboek.
 Bij wijziging of herziening is het bestuur verplicht om het besluit tot
 herziening met een kopie van de nieuwe statuten ondertekend door alle
 bestuurders op te sturen naar de Kamer van Koophandel.
+
+#### Artikel 39
+
+De Vereniging kan zich met inachtneming van artikel 2:18 van het Burgerlijk
+Wetboek omzetten in een andere rechtsvorm.
