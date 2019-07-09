@@ -207,3 +207,13 @@ ruimtes die niet te classificeren vallen als gamemode, Realm of minigamemode.
 #### § 3. Realmteam
 
 #### § 4. Staffchefs
+
+#### Artikel ?
+
+Staffchefs kunnen ontslagen en benoemd worden door de Netwerkraad.
+
+#### Artikel ??
+
+1.  Een Staffchef is belast met het uitvoeren van specifieke bevoegdheden namens de Netwerkraad of individuele leden, waarvoor de Staffchef in kwestie specifieke toestemming en machtiging heeft gekregen.
+
+2.  Een Staffchef is bevoegd om toezicht te houden en hand te haven op beleid binnen de verschillende gamemodes, mits hij hiervoor toestemming heeft van de Netwerkraad of één van haar leden.
