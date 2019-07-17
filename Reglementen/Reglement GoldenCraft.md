@@ -112,7 +112,9 @@
     spoedig mogelijk op de hoogte te stellen van de besluiten die zij neemt, en
     de acties die zij onderneemt.
 
-4.  Het bestuur is op verzoek van de Netwerkraad of bij bijzondere
+4.  Leden van de Netwerkraad zijn
+
+5.  Het bestuur is op verzoek van de Netwerkraad of bij bijzondere
     omstandigheden bevoegd om namens de Netwerkraad te handelen.
 
 ### Titel 3. Gamemodes
@@ -205,5 +207,24 @@ het assisteren van de Netwerkraad binnen gemeenschappelijke gameservers en
 ruimtes die niet te classificeren vallen als gamemode, Realm of minigamemode.
 
 #### § 3. Realmteam
+
+#### Artikel 21
+
+Er zal een Realmteam zijn.
+
+#### Artikel 22
+
+Teamleden van het Realmteam worden benoemd en ontslagen door de Netwerkraad.
+
+#### Artikel 23
+
+1.  Het Realmteam zal belast zijn met het helpen en begeleiden van de gebruikers
+    van Realms, en binnen de Realms zal het mede belast zijn met het naleven van
+    de regels en algemene voorwaarden van GoldenCraft en de statuten en
+    reglementen van de Vereniging, alsmede belast met het assisteren van de
+    Netwerkraad binnen en rondom Realms.
+
+2.  Het Realmteam is ook bevoegd tot het verstrekken, intrekken, beheren en het
+    uitvoeren van andere handelingen die betrekking hebben tot Realms.
 
 #### § 4. Staffchefs
