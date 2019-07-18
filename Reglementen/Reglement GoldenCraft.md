@@ -5,7 +5,8 @@
 1.  GoldenCraft is een initiatief en een project van Aegis Vereniging van
     Beheerders en Ontwikkelaars.
 
-2.  GoldenCraft zal ook bekend zijn onder de naam “GCPlay”.
+2.  GoldenCraft zal ook bekend zijn onder de naam “GCPlay” of “GoldenCraft
+    Remastered”.
 
 3.  In dit reglement zal GoldenCraft ook bekend staan als “het netwerk” of “het
     project”.
@@ -63,23 +64,49 @@
     statutaire en reglementaire procedure is doorlopen, en de vrijwilliger
     hierdoor lidmaatschap verschaft.
 
+#### Artikel 5 – Het Bestuur & Statutair
+
+1.  Het Bestuur is en blijft bevoegd om gebruik te maken van alle bevoegdheden
+    die in dit reglement aan een orgaan is gegeven.
+
+2.  Het Bestuur is bij bijzondere omstandigheden bevoegd om namens een van de in
+    dit reglement opgestelde organen te handelen. Hierbij is zij verplicht om de
+    Netwerkraad en het desbetreffende orgaan zo spoedig mogelijk te informeren.
+
+3.  Het Bestuur is belast met het vaststellen van een voorschrift voor de
+    algemene voorwaarden, regels, gedragsregels en overige voorwaarden of
+    bepalingen waaraan spelers, gamemodes en vrijwilligers zich moeten houden.
+
+4.  Het Bestuur is bevoegd om te besluiten het Project GoldenCraft voort te
+    zetten als een zelfstandige juridische entiteit. Indien zij hiertoe besluit
+    moet zij de Algemene Ledenvergadering informeren van dit besluit. Zij moet
+    daarna dit besluit ter uitvoering brengen, waarbij de Vereniging de enige
+    belanghebbende zal zijn van de nieuwe zelfstandige juridische entiteit,
+    tenzij het Bestuur toestemming krijgt van de Algemene Ledenvergadering om
+    meerdere belanghebbenden te hebben. Bij oprichting zullen de leden van de
+    Netwerkraad het eerste bestuur zijn.
+
 ### Titel 2. Netwerkraad
 
 #### § 1. Instelling
 
-#### Artikel 5
+#### Artikel 6
 
 1.  Er is binnen de groep organen die GoldenCraft heet, een orgaan dat de
     Netwerkraad zal heten.
 
-2.  Leden van de Netwerkraad kunnen uit de leden van de Vereniging door zowel
+2.  De Netwerkraad zal ook bekend zijn als “Het Netwerkteam”, “Team Netwerk”, en
+    leden zullen indien nodig de titel “lid Netwerkraad” of indien verkort
+    noodzakelijk is zullen zij de titel “Netwerk” dragen.
+
+3.  Leden van de Netwerkraad kunnen uit de leden van de Vereniging door zowel
     het Bestuur als de Algemene Ledenvergadering voorgedragen worden.
 
-3.  Leden van de Netwerkraad worden aangesteld en ontslagen door het Bestuur.
+4.  Leden van de Netwerkraad worden aangesteld en ontslagen door het Bestuur.
 
 #### § 2. Bevoegdheden
 
-#### Artikel 6
+#### Artikel 7
 
 1.  De Netwerkraad is bevoegd om gamemodes op te heffen en in te stellen.
 
@@ -101,7 +128,7 @@
 6.  De Netwerkraad is overigens ook belast met het in goede banen leiden van
     communicatie en aangelegenheden die meerdere gamemodes betreffen
 
-#### Artikel 7 – Restricties
+#### Artikel 8 – Restricties
 
 1.  De Netwerkraad is niet handelsbevoegd.
 
@@ -119,22 +146,22 @@
 
 ### Titel 3. Gamemodes
 
-#### Artikel 8
+#### Artikel 9
 
 In elke gamemode is een Teamleider en een staffteam.
 
 #### § 1. Teamleider
 
-#### Artikel 9
+#### Artikel 10
 
 De Teamleider wordt benoemd en ontslagen door de Netwerkraad.
 
-#### Artikel 10
+#### Artikel 11
 
 De Teamleider en de Netwerkraad kunnen overige teams opheffen en instellen
 binnen de gamemode.
 
-#### Artikel 11
+#### Artikel 12
 
 De Teamleider is belast met het regelen en managen van interne aangelegenheden
 binnen de gamemode en haar (staff)teams, het assisteren en instrueren van deze
@@ -143,36 +170,36 @@ configureren daarvan.
 
 #### § 2. Staffteam en overige teams
 
-#### Artikel 12
+#### Artikel 13
 
 Leden van het staffteam worden benoemd en ontslagen door de Teamleider.
 
-#### Artikel 13
+#### Artikel 14
 
-Leden van de overige teams als bedoelt in artikel 10 worden benoemd en ontslagen
+Leden van de overige teams als bedoelt in artikel 11 worden benoemd en ontslagen
 door de Teamleider.
 
-#### Artikel 14
+#### Artikel 15
 
 Het staffteam zal belast zijn met het helpen en begeleiden van de spelers, en
 het naleven van de regels en algemene voorwaarden van GoldenCraft, de statuten
 en reglementen van de Vereniging, binnen de gamemode, alsmede het assisteren van
 de Teamleider en overige taken waar de Teamleider het mandaat voor verleent.
 
-#### Artikel 15
+#### Artikel 16
 
-De overige teams als bedoelt in artikel 10 worden belast met overige
+De overige teams als bedoelt in artikel 11 worden belast met overige
 activiteiten waarvoor de Teamleider hen het mandaat verleent.
 
 ### Titel 4. Overige organen
 
 #### § 1. Teamvertegenwoordiging
 
-#### Artikel 16
+#### Artikel 17
 
 Iedere Teamleider zal lid zijn van de Teamvertegenwoordiging.
 
-#### Artikel 17
+#### Artikel 18
 
 1.  De Teamvertegenwoordiging wijst uit haar midden een voorzitter van de
     Teamvertegenwoordiging aan.
@@ -183,40 +210,60 @@ Iedere Teamleider zal lid zijn van de Teamvertegenwoordiging.
 3.  Indien de Netwerkraad daarvoor kiest, kan zij iemand aanstellen om een
     specifieke vergadering voor te zitten.
 
-#### Artikel 18
+#### Artikel 19
 
 De Teamvertegenwoordiging zal de Netwerkraad desgevraagd adviseren bij haar
 beslissingen.
 
 #### § 2. Hubteam
 
-#### Artikel 19
+#### Artikel 20
 
 1.  Teamleden van het Hubteam worden voorgedragen door de Netwerkraad na het
     inwinnen van advies bij de Teamvertegenwoordiging.
 
 2.  Teamleden van het Hubteam worden benoemd en ontslagen door de Netwerkraad.
 
-#### Artikel 20
+#### Artikel 21 – Belast & Bevoegdheden
 
 Het Hubteam zal belast zijn met het helpen en begeleiden van de spelers, en het
 naleven van de regels en algemene voorwaarden van GoldenCraft, de statuten en
 reglementen van de Vereniging, binnen gemeenschappelijke gameservers en ruimtes
-die niet te classificeren vallen als gamemode, Realm of minigamemode, alsmede
+die niet te classificeren vallen als gamemode, Realm of mini-gamemode, alsmede
 het assisteren van de Netwerkraad binnen gemeenschappelijke gameservers en
 ruimtes die niet te classificeren vallen als gamemode, Realm of minigamemode.
 
-#### § 3. Realmteam
-
-#### Artikel 21
-
-Er zal een Realmteam zijn.
+#### § 5. Team Minigamemodes
 
 #### Artikel 22
 
+1.  Teamleden van het Team Mini-gamemodes worden voorgedragen door de
+    Netwerkraad na het inwinnen van advies bij de Teamvertegenwoordiging.
+
+2.  Teamleden van het Team Mini-gamemodes worden benoemd en ontslagen door de
+    Netwerkraad.
+
+#### Artikel 23 – Belast & Bevoegdheden
+
+Het Team Mini-gamemodes zal belast zijn met het helpen en begeleiden van de
+spelers, en het naleven van de regels en algemene voorwaarden van GoldenCraft,
+de statuten en reglementen van de Vereniging, binnen gemeenschappelijke
+gameservers en ruimtes die te door de Netwerkraad geclassificeerd zijn als
+mini-gamemode, alsmede het assisteren van de Netwerkraad binnen
+gemeenschappelijke gameservers en ruimtes die door de Netwerkraad
+geclassificeerd zijn als mini-gamemode.
+
+#### § 4. Realmteam
+
+#### Artikel 24
+
+Er zal een Realmteam zijn.
+
+#### Artikel 25
+
 Teamleden van het Realmteam worden benoemd en ontslagen door de Netwerkraad.
 
-#### Artikel 23
+#### Artikel 26 – Belast & Bevoegdheden
 
 1.  Het Realmteam zal belast zijn met het helpen en begeleiden van de gebruikers
     van Realms, en binnen de Realms zal het mede belast zijn met het naleven van
@@ -227,14 +274,18 @@ Teamleden van het Realmteam worden benoemd en ontslagen door de Netwerkraad.
 2.  Het Realmteam is ook bevoegd tot het verstrekken, intrekken, beheren en het
     uitvoeren van andere handelingen die betrekking hebben tot Realms.
 
-#### § 4. Staffchefs
+#### § 5. Staffchefs
 
-#### Artikel ?
+#### Artikel 27
 
 Staffchefs kunnen ontslagen en benoemd worden door de Netwerkraad.
 
-#### Artikel ??
+#### Artikel 28 – Belast & Bevoegdheden
 
-1.  Een Staffchef is belast met het uitvoeren van specifieke bevoegdheden namens de Netwerkraad of individuele leden, waarvoor de Staffchef in kwestie specifieke toestemming en machtiging heeft gekregen.
+1.  Een Staffchef is belast met het uitvoeren van specifieke bevoegdheden namens
+    de Netwerkraad of individuele leden, waarvoor de Staffchef in kwestie
+    specifieke toestemming en machtiging heeft gekregen.
 
-2.  Een Staffchef is bevoegd om toezicht te houden en hand te haven op beleid binnen de verschillende gamemodes, mits hij hiervoor toestemming heeft van de Netwerkraad of één van haar leden.
+2.  Een Staffchef is bevoegd om toezicht te houden en hand te haven op beleid
+    binnen de verschillende gamemodes, mits hij hiervoor toestemming heeft van
+    de Netwerkraad of één van haar leden.
