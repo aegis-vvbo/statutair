@@ -233,7 +233,7 @@ die niet te classificeren vallen als gamemode, Realm of mini-gamemode, alsmede
 het assisteren van de Netwerkraad binnen gemeenschappelijke gameservers en
 ruimtes die niet te classificeren vallen als gamemode, Realm of minigamemode.
 
-#### § 5. Team Minigamemodes
+#### § 5. Team Mini-gamemodes
 
 #### Artikel 22
 
